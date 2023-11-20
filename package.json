@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "0.0.0.alpha",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsnd --transpile-only --respawn --ignore-watch node_modules src/server.ts"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2",
+    "uuidv4": "^6.2.13"
+  }
+}
