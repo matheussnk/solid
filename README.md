@@ -1,4 +1,4 @@
-## Getting Started
+## Intro
 
 O projeto foi construído com base em conceitos SOLID para reforçar os conhecimentos técnicos adquiridos para a construção de uma REST API.
 
